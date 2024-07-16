@@ -1,0 +1,102 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "student 1",
+      "age": 15,
+      "class": 1,
+      "isActive": true,
+      "address": "India"
+    },
+    {
+      "id": "9d7c",
+      "name": "dev",
+      "emailaddress": "mauryaswayam110@gmail.com",
+      "age": 20,
+      "city": "surat",
+      "pincode": "394210",
+      "mobileno": "06655665569"
+    },
+    {
+      "id": "f88c",
+      "name": null,
+      "emailaddress": null,
+      "age": null,
+      "city": null,
+      "pincode": null,
+      "mobileno": null
+    },
+    {
+      "id": "58fb",
+      "name": "rani ",
+      "emailaddress": "mauryaswayam110@gmail.com",
+      "age": -3,
+      "city": "surat",
+      "pincode": "394210",
+      "mobileno": "06655665569"
+    },
+    {
+      "id": "b53c",
+      "name": null,
+      "emailaddress": null,
+      "age": null,
+      "city": null,
+      "pincode": null,
+      "mobileno": null
+    },
+    {
+      "id": "4ed0",
+      "name": "dev",
+      "emailaddress": "dhavalrana@gmail.com",
+      "age": 20,
+      "city": "surat",
+      "pincode": "394210",
+      "mobileno": "656965"
+    },
+    {
+      "id": "4585",
+      "name": null,
+      "emailaddress": null,
+      "age": null,
+      "city": null,
+      "pincode": null,
+      "mobileno": null
+    },
+    {
+      "id": "6cbf",
+      "name": "swayam",
+      "emailaddress": "mauryaswayam110@gmail.com",
+      "age": 25,
+      "city": "surat",
+      "pincode": "469522",
+      "mobileno": "9081373924"
+    },
+    {
+      "id": "02b2",
+      "name": "test",
+      "emailaddress": "test23@gmail.com",
+      "age": 26,
+      "city": "vapi",
+      "pincode": "342120",
+      "mobileno": "8980862588"
+    }
+  ],
+  "classes": [
+    {
+      "id": "1",
+      "name": 1
+    },
+    {
+      "id": "2",
+      "name": 2
+    },
+    {
+      "id": "3",
+      "name": 3
+    },
+    {
+      "id": "4",
+      "name": 4
+    }
+  ]
+}
